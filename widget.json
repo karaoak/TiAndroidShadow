@@ -1,0 +1,13 @@
+{
+  "id": "com.karaoak.shadow",
+  "name": "TiAndroidShadow",
+  "description": "Cross platform Titanium view shadow Alloy widget",
+  "author": "Frank Eijking",
+  "version": "1.0",
+  "copyright":"2015 Medianique",
+  "license":"Private",
+  "min-alloy-version": "1.5.1",
+  "min-titanium-version":"4.0.0",
+  "tags":"",
+  "platforms":"android,ios"
+}

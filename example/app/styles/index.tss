@@ -1,0 +1,31 @@
+".container": {
+	backgroundColor:"#a5ca39",
+}
+
+".noTouch": {
+    touchEnabled: false,
+}
+
+".icon": {
+	color: 'black',
+	text: 'X', //Your custom font icon here...
+	title: 'X', //Your custom font icon here...
+}
+
+"#myControl": {
+    width: 50,
+    height: 50,
+    backgroundColor: 'white',
+	borderColor: 'white',
+	borderWidth: 2,
+    borderRadius: 25,
+}
+
+/*"#myControl[platform=ios]": {
+    viewShadowColor: '#44000000', //Optionally set shadowColor by widget attribute
+    viewShadowOffset: { x: 2, y: 2 }, //These properties are set by the widget :)
+}
+
+"#myControlIcon[platform=android]": {
+    height: 50,
+}*/

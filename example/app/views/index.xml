@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<Widget src="com.karaoak.shadow" shadowColor="#44000000">
+            <View id="myControl" onClick="myControlAction">
+                <Button class="icon noTouch" platform="ios" />
+                <Label class="icon noTouch" platform="android" id="myControlIcon" />
+            </View>
+        </Widget>
+	</Window>
+</Alloy>
