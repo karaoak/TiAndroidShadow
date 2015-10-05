@@ -10,7 +10,7 @@ Download this repository and consult the [Alloy Documentation](http://docs.appce
 
 ### Use it
 
-* Add the widget to your *View:
+* Add the widget to your View:
 
 	```xml
 	<Alloy>
@@ -26,7 +26,7 @@ Download this repository and consult the [Alloy Documentation](http://docs.appce
 ```
 
 ### Sample
-See the example folder for a working example.
+See the example folder for a working app example.
 
 ### Preview
 
